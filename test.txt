@@ -1,1 +1,2 @@
 This is some example text to show that git can track changes inside a file
+This is a new line that may prevent merging main into development
