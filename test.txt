@@ -1,0 +1,1 @@
+This is some example text to show that git can track changes inside a file
